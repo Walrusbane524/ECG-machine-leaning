@@ -1,0 +1,2 @@
+# machine-leaning-ECG
+Algoritmos de processamento de sinais e aplicação de algoritmos de aprendizagem de máquina em sinais de Eletrocardiograma, utilizados em um projeto de pesquisa da UFC.
